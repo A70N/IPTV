@@ -2,26 +2,19 @@
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",FIFA World Cup 2026 (BTV)
-https://tvsen6.aynaott.com/btvhd/index.m3u8?e=1781186128&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2d59fcfb41db86e1a2e2cebc78575dbf
+https://edge2.roarzone.net:8447/roarzone/edge1/3/index.ll.m3u8?token=2d4483187f7d6e835d98bc694266e1c5029696d0-0ab68562ffee57f2b47b19b4fd0afa30-1781204114-1781193314
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",FIFA World Cup 2026(T-Sports)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",FIFA World Cup 2026(T-Sports HD)
 https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",FIFA World Cup 2026 (BTV)
-https://feed.hasanhabibmottakin.workers.dev/edge1/3/index.m3u8
+https://tvsen6.aynaott.com/btvhd/index.m3u8?e=1781186128&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2d59fcfb41db86e1a2e2cebc78575dbf
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",FIFA World Cup 2026 (Somoy TV)
-https://feed.hasanhabibmottakin.workers.dev/edge1/2/index.m3u8
-
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",FIFA World Cup 2026 (UNITE8 SPORTS 2 HD)
-https://zati5.hasanhabibmottakin.workers.dev/0-9-zeecafehd/index.m3u8
-
-
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",FIFA World Cup 2026
-https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
+https://edge2.roarzone.net:8447/roarzone/edge1/2/index.ll.m3u8?token=e8a13d97e0b306e92a83c7b7a172aa08bb7b94eb-042acc4c92a3f439525b5626bd2f5ba5-1781204113-1781193313
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png", FIFA World Cup 2026 (FIFA+)
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",FIFA World Cup 2026 (T-Sports)
-https://feed.hasanhabibmottakin.workers.dev/edge1/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/1280px-2026_FIFA_World_Cup_emblem.svg.png",FIFA World Cup 2026 (T-Sports HD)
+https://edge2.roarzone.net:8447/roarzone/edge1/1/index.ll.m3u8?token=5680671b2e7a9457a8ea398d27effe2c8ee3115b-f7c581e253648058bc881f62d6cd5244-1781204113-1781193313
